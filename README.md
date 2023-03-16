@@ -51,7 +51,7 @@ By default scraped profile is `<USERNAME>`, you may change using
  `
  
  
- If you are having trouble logging try this site https://instaloader.github.io/troubleshooting.html .
+ If you are having trouble logging in try this site https://instaloader.github.io/troubleshooting.html .
 
 ## --help
 
